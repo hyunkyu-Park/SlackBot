@@ -17,7 +17,8 @@ app = App(token=os.environ.get("SLACK_BOT_TOKEN"))
 llm = ChatOpenAI(temperature=0)
 
 #template
-template = """Respond in the same language that the user inputs 
+template = """Your name is BlueBoy. You are the chatbot in the slack app.
+
 
     {history}
     Human: {human_input}
