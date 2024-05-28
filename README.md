@@ -1,5 +1,6 @@
 # Create Slackbot using ChatGPT 3.5
 
+### OpenAI API, Langchain
 ### Slack Bolt, ChatGPT 3.5
 
 ##Example
